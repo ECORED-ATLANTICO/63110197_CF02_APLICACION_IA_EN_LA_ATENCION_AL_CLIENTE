@@ -2,13 +2,14 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. 
+    p El componente formativo Estrategias de atención al cliente con IA presenta los conceptos básicos, herramientas y estrategias necesarias para integrar la IA en los procesos de servicio de las organizaciones.  
+    p.mb-5 Aborda la satisfacción y la fidelización del cliente, asimismo, contempla la gestión de quejas, la personalización de la atención, el análisis de emociones y la toma de decisiones, considerando principios éticos, la protección de la privacidad, la identificación de sesgos, la gestión del cambio organizacional y la optimización continua de los procesos de atención al cliente apoyados en inteligencia artificial. 
     
 
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-xl-11.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="La figura presenta la estructura temática del componente formativo Estrategias de atención al cliente con IA, organizada en áreas que integran la experiencia del cliente, la gestión de situaciones complejas, el uso ético de la información, las tendencias tecnológicas y la implementación de inteligencia artificial. En conjunto, muestra cómo estos elementos se articulan para personalizar la atención, fortalecer la satisfacción, apoyar la resolución de problemas y promover la mejora continua de los procesos de servicio.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

@@ -1,17 +1,26 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.svg',
+    Name: 'Estrategias de atención al cliente con IA',
+    Description:
+      'Este componente formativo orienta al aprendiz en la aplicación de la inteligencia artificial en la atención al cliente, mediante el uso de herramientas digitales y estrategias que mejoran la experiencia, la satisfacción, la fidelización y la optimización continua del servicio, considerando principios éticos y de privacidad.',
+    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: '@/assets/curso/portada/banner-principal-decorativo-1.svg',
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-1.png',
       },
       {
         clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
-        imagen: '@/assets/curso/portada/banner-principal-decorativo-2.svg',
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-2.png',
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-3.png',
+      },
+      {
+        clases: ['banner-principal-decorativo-4', 'd-none', 'd-lg-block'],
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-4.png',
       },
     ],
   },
@@ -31,40 +40,79 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Experiencia con IA ',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Satisfacción y fidelización',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Personalización y análisis de emociones ',
+            hash: 't_1_2',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Quejas y ética con IA',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Resolución de problemas y escalamiento',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Privacidad, sesgos y transparencia',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Tendencias y casos con IA',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'IA avanzada y nuevas tecnologías',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Ejemplos empresariales y estrategias',
+            hash: 't_3_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Tema 4',
+        titulo: 'Integración de IA',
         desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema5',
-        numero: '5',
-        titulo: 'Tema 5',
-        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Estrategias de implementación',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Capacitación y gestión del cambio',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Medición y optimización',
+            hash: 't_4_3',
+          },
+        ],
       },
     ],
     subMenu: [
