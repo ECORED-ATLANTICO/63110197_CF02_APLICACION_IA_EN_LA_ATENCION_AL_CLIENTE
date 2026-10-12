@@ -191,6 +191,7 @@
                   a.boton.color-acento-botones(href="https://www.ituser.es/inteligencia-artificial/2024/12/las-4-tendencias-en-inteligencia-artificial-capaces-de-aumentar-la-productividad-de-los-equipos-de-marketing" target="_blank")
                     span Ir al recurso
                     i.fas.fa-file-download
+                    
     .row.justify-content-center.z-2.mb-5
       .col-lg-10.col-xl-8
         .bg-audio.rounded-4.p-4.p-lg-5

@@ -157,14 +157,161 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Algoritmo',
+      significado:
+        'Conjunto de instrucciones o reglas que permiten a un sistema de IA procesar información y tomar decisiones automatizadas.',
+    },
+    {
+      termino: 'Análisis de emociones',
+      significado:
+        'Técnica utilizada por la IA para identificar y evaluar emociones de los clientes a través de datos textuales, de voz o faciales.',
+    },
+    {
+      termino: 'Automatización',
+      significado:
+        'Uso de tecnología para realizar procesos sin intervención humana, aumentando eficiencia y reduciendo errores en atención al cliente.',
+    },
+    {
+      termino: '<em>Big data</em>',
+      significado:
+        'Conjunto de datos masivos y variados que permiten a la IA aprender patrones de comportamiento de los clientes.',
+    },
+    {
+      termino: '<em>Chatbot</em>',
+      significado:
+        'Asistente virtual basado en IA que interactúa automáticamente con los clientes a través de texto o voz.',
+    },
+    {
+      termino: 'CRM (<em>Customer relationship management</em>)',
+      significado:
+        'Sistema de gestión de relaciones con clientes que permite integrar información de interacción y mejorar la experiencia.',
+    },
+    {
+      termino: 'Datos personales',
+      significado:
+        'Información que identifica o permite identificar a una persona, protegida por normas de privacidad.',
+    },
+    {
+      termino: 'Escalamiento',
+      significado:
+        'Proceso mediante el cual un caso o consulta se transfiere de un sistema automatizado a un asesor humano.',
+    },
+    {
+      termino: 'Experiencia del cliente (<em>Customer experience</em>)',
+      significado:
+        'Conjunto de percepciones y emociones de un cliente al interactuar con una empresa o servicio.',
+    },
+    {
+      termino: 'Filtros de IA',
+      significado:
+        'Herramientas de clasificación y priorización de información utilizadas por sistemas de atención automatizados.',
+    },
+    {
+      termino: 'IA (inteligencia artificial)',
+      significado:
+        'Tecnología que permite a sistemas informáticos imitar funciones cognitivas humanas como aprendizaje, análisis y toma de decisiones.',
+    },
+    {
+      termino: 'Implementación',
+      significado:
+        'Proceso de integrar un sistema de IA en los canales y procesos de atención al cliente de una organización.',
+    },
+    {
+      termino: 'Indicadores de desempeño (KPI)',
+      significado:
+        'Métricas utilizadas para medir la efectividad de los procesos de atención y satisfacción del cliente.',
+    },
+    {
+      termino: 'Integración tecnológica',
+      significado:
+        'Combinación de herramientas digitales y sistemas de IA con los procesos humanos para atención al cliente.',
+    },
+    {
+      termino: '<em>Machine learning</em> (Aprendizaje automático)',
+      significado:
+        'Rama de la IA que permite a los sistemas aprender automáticamente de los datos y mejorar su desempeño.',
+    },
+    {
+      termino: 'Mitos de la IA',
+      significado:
+        'Creencias erróneas o exageradas sobre capacidades y riesgos de la inteligencia artificial.',
+    },
+    {
+      termino: 'Personalización',
+      significado:
+        'Capacidad de adaptar productos, servicios o interacciones según las necesidades, preferencias o comportamientos del cliente.',
+    },
+    {
+      termino: 'Privacidad de datos',
+      significado:
+        'Protección de la información personal de los clientes frente a accesos no autorizados o mal uso.',
+    },
+    {
+      termino: 'Procesamiento de lenguaje natural (PLN)',
+      significado:
+        'Técnica de IA que permite comprender, interpretar y generar lenguaje humano de manera automática.',
+    },
+    {
+      termino: 'Reclamo',
+      significado:
+        'Manifestación de insatisfacción de un cliente respecto a un producto, servicio o atención recibida.',
+    },
+    {
+      termino: 'Resolución de problemas',
+      significado:
+        'Capacidad de identificar, analizar y solucionar conflictos o incidencias durante la atención al cliente.',
+    },
+    {
+      termino: 'Sesgo de IA',
+      significado:
+        'Distorsión en los resultados de un sistema de IA debido a datos incompletos o mal representados durante su entrenamiento.',
+    },
+    {
+      termino: 'Satisfacción del cliente',
+      significado:
+        'Medida del grado en que un producto o servicio cumple o excede las expectativas del cliente.',
+    },
+    {
+      termino: 'Transparencia',
+      significado:
+        'Práctica de comunicar claramente cómo funcionan los sistemas de IA y cómo se usan los datos de los clientes.',
+    },
+    {
+      termino: 'Transformación digital',
+      significado:
+        'Proceso de integración de tecnologías digitales, incluyendo IA, en todas las áreas de la empresa para optimizar operaciones y experiencia del cliente.',
     },
   ],
   referencias: [
     {
-      referencia: 'REF',
-      link: 'LINK',
+      referencia:
+        'Adamssen, J. (2020). <em>Inteligencia artificial: aprender sobre chatbots, robótica y otras aplicaciones comerciales</em>. Efalon Acies.',
+      link: '',
+    },
+    {
+      referencia:
+        'Adereso AI. (2025). <em>Cómo la inteligencia artificial puede mejorar la eficiencia en la atención al cliente</em>. Adereso AI.',
+      link: 'https://adereso.ai/wp-content/uploads/2025/02/ebook-atencion-al-cliente-ai_compressed.pdf',
+    },
+    {
+      referencia:
+        'Acosta Aguinaga, K. R. (2024). Inteligencia artificial (IA) y experiencia del cliente desde el año 2016: Revisión de bibliografía. <em>Revista de Ciencias y Artes</em>, <em>2</em>(1), 1–17.',
+      link: 'https://doi.org/10.37211/2789.1216.v2.n1.51',
+    },
+    {
+      referencia:
+        'Arlenet Peña Zerpa, C., & Peña Zerpa, M. Y. (2024). Inteligencia Artificial en la atención al cliente de salas de cine: Beneficios y riesgos emergentes. <em>Sociedad & Tecnología</em>, <em>8</em>(4), e662.',
+      link: 'https://doi.org/10.51247/st.v8i4.662',
+    },
+    {
+      referencia:
+        'Bustos García, A. F., Ramírez Cardona, A. N., & Suárez Grisales, J. V. (2021). <em>Inteligencia artificial como optimizador de procesos para atención al cliente</em> [Capítulo de libro, Universidad].',
+      link: '',
+    },
+    {
+      referencia:
+        'Coronado García, B. (2025). <em>Inteligencia artificial aplicada al comercio</em>. Ediciones de la U / Ra-ma Editorial.',
+      link: '',
     },
   ],
   creditos: [
