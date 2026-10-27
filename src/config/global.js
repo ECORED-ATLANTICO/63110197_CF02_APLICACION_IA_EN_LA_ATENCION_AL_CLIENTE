@@ -50,7 +50,7 @@ export default {
           },
           {
             numero: '1.2',
-            titulo: 'Personalización y análisis de emociones ',
+            titulo: 'Personalización y análisis de emociones',
             hash: 't_1_2',
           },
         ],
@@ -141,7 +141,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/63110197_CF02_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -227,7 +227,7 @@ export default {
         'Combinación de herramientas digitales y sistemas de IA con los procesos humanos para atención al cliente.',
     },
     {
-      termino: '<em>Machine learning</em> (Aprendizaje automático)',
+      termino: '<em>Machine learning</em> (aprendizaje automático)',
       significado:
         'Rama de la IA que permite a los sistemas aprender automáticamente de los datos y mejorar su desempeño.',
     },
@@ -285,32 +285,32 @@ export default {
   referencias: [
     {
       referencia:
-        'Adamssen, J. (2020). <em>Inteligencia artificial: aprender sobre chatbots, robótica y otras aplicaciones comerciales</em>. Efalon Acies.',
+        'Adamssen, J. (2020). Inteligencia artificial: aprender sobre <em>chatbots</em>, robótica y otras aplicaciones comerciales. Efalon Acies.',
       link: '',
     },
     {
       referencia:
-        'Adereso AI. (2025). <em>Cómo la inteligencia artificial puede mejorar la eficiencia en la atención al cliente</em>. Adereso AI.',
+        'Adereso AI. (2025). Cómo la inteligencia artificial puede mejorar la eficiencia en la atención al cliente. Adereso AI.',
       link: 'https://adereso.ai/wp-content/uploads/2025/02/ebook-atencion-al-cliente-ai_compressed.pdf',
     },
     {
       referencia:
-        'Acosta Aguinaga, K. R. (2024). Inteligencia artificial (IA) y experiencia del cliente desde el año 2016: Revisión de bibliografía. <em>Revista de Ciencias y Artes</em>, <em>2</em>(1), 1–17.',
+        'Acosta Aguinaga, K. R. (2024). Inteligencia artificial (IA) y experiencia del cliente desde el año 2016: Revisión de bibliografía. Revista de Ciencias y Artes, 2(1), 1-17.',
       link: 'https://doi.org/10.37211/2789.1216.v2.n1.51',
     },
     {
       referencia:
-        'Arlenet Peña Zerpa, C., & Peña Zerpa, M. Y. (2024). Inteligencia Artificial en la atención al cliente de salas de cine: Beneficios y riesgos emergentes. <em>Sociedad & Tecnología</em>, <em>8</em>(4), e662.',
+        'Arlenet Peña Zerpa, C., & Peña Zerpa, M. Y. (2024). Inteligencia Artificial en la atención al cliente de salas de cine: Beneficios y riesgos emergentes. Sociedad & Tecnología, 8(4), e662.',
       link: 'https://doi.org/10.51247/st.v8i4.662',
     },
     {
       referencia:
-        'Bustos García, A. F., Ramírez Cardona, A. N., & Suárez Grisales, J. V. (2021). <em>Inteligencia artificial como optimizador de procesos para atención al cliente</em> [Capítulo de libro, Universidad].',
+        'Bustos García, A. F., Ramírez Cardona, A. N., & Suárez Grisales, J. V. (2021). Inteligencia artificial como optimizador de procesos para atención al cliente [Capítulo de libro, Universidad].',
       link: '',
     },
     {
       referencia:
-        'Coronado García, B. (2025). <em>Inteligencia artificial aplicada al comercio</em>. Ediciones de la U / Ra-ma Editorial.',
+        'Coronado García, B. (2025). Inteligencia artificial aplicada al comercio. Ediciones de la U / Ra-ma Editorial.',
       link: '',
     },
   ],
@@ -335,18 +335,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Mario Morales Cabrera',
+          cargo: 'Experto Temático Logística',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Jair Coll Gallardo ',
+          cargo: 'Experto Temático Comercio y servicio',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -355,12 +350,12 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Andrés Felipe Herrera Roldan',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Fabio Fonseca Arguelles',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -381,22 +376,22 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Jonathan Adié Villafañe',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Luis Gabriel Urueta ',
           cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Laura Daniela Burgos Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

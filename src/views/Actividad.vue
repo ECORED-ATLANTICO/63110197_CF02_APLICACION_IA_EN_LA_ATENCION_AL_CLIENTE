@@ -80,7 +80,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Chatbot.',
+              texto: '<em>Chatbot</em>.',
               esCorrecta: true,
             },
             {
@@ -90,7 +90,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Los chatbots permiten automatizar la atención de consultas frecuentes durante las 24 horas del día.',
+            'Los <em>chatbots</em> permiten automatizar la atención de consultas frecuentes durante las 24 horas del día.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -141,7 +141,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Marketing tradicional.',
+              texto: '<em>Marketing</em> tradicional.',
               esCorrecta: false,
             },
             {
@@ -174,7 +174,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Cuando el chatbot responde correctamente.',
+              texto: 'Cuando el <em>chatbot</em> responde correctamente.',
               esCorrecta: false,
             },
             {
@@ -190,7 +190,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los casos complejos deben ser atendidos por personal capacitado para garantizar una solución adecuada.',
+            'Los casos complejos deben ser atendidos por personal capacitado para garantizar una solución adecuada.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -456,7 +456,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El análisis de datos permite comprender el comportamiento del cliente y mejorar el servicio.',
+            'El análisis de datos permite comprender el comportamiento del cliente y mejorar el servicio.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

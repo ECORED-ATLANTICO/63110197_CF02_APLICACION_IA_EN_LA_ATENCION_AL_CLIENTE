@@ -21,7 +21,7 @@
       .col-lg-8
         p Las tendencias actuales en inteligencia artificial muestran innovaciones que transforman la atención al cliente y los procesos empresariales. Estas tecnologías permiten anticipar necesidades, personalizar experiencias y automatizar tareas, contribuyendo a decisiones más rápidas y eficientes sin reemplazar el talento humano. 
         .bg-terciario.rounded-4.p-4.py-3.mb-3
-          p.mb-0 Entre las herramientas más relevantes se destacan el análisis predictivo, el aprendizaje profundo, los sistemas de recomendación, los chatbots inteligentes y el análisis de emociones, cada una con un impacto directo en la eficiencia, calidad del servicio y satisfacción del cliente. 
+          p.mb-0 Entre las herramientas más relevantes se destacan el análisis predictivo, el aprendizaje profundo, los sistemas de recomendación, los #[em chatbots] inteligentes y el análisis de emociones, cada una con un impacto directo en la eficiencia, calidad del servicio y satisfacción del cliente. 
         p La siguiente tabla resume estas tecnologías, su función y los beneficios que aportan en la atención al cliente:  
       .col-sm-8.col-lg-4.d-none.d-lg-block
         figure
@@ -37,35 +37,35 @@
           table
             thead
               tr(style="background-color: #F3F6FE")
-                th Tecnología 
-                th(colspan="2") Función 
-                th(colspan="2") Ventaja en atención al cliente 
+                th(colspan="2") Tecnología 
+                th(colspan="3") Función 
+                th(colspan="3") Ventaja en atención al cliente 
             tbody
               tr(style="background-color: #E8EFFE")
-                td #[strong IA predictiva]
-                td(colspan="2") Anticipa necesidades del cliente usando datos históricos 
-                td(colspan="2") Reduce tiempos de respuesta y aumenta la satisfacción 
-              tr
-                td #[strong #[em Chatbots] avanzados]
-                td(colspan="2") Responde consultas complejas y filtra información 
-                td(colspan="2") Permite atención 24/7 y libera al personal humano 
+                td(colspan="2") #[strong IA predictiva]
+                td(colspan="3") Anticipa necesidades del cliente usando datos históricos 
+                td(colspan="3") Reduce tiempos de respuesta y aumenta la satisfacción 
+              tr(style="background-color: #FFFFFF")
+                td(colspan="2") #[strong #[em Chatbots] avanzados]
+                td(colspan="3") Responde consultas complejas y filtra información 
+                td(colspan="3") Permite atención 24/7 y libera al personal humano 
               tr(style="background-color: #E8EFFE")
-                td #[strong Análisis de emociones]
-                td(colspan="2") Detecta estado emocional y tono de interacción 
-                td(colspan="2") Mejora la empatía y personalización en la atención 
-              tr
-                td #[strong Recomendaciones inteligentes]
-                td(colspan="2") Sugiere productos o servicios según comportamiento 
-                td(colspan="2") Incrementa fidelización y venta 
+                td(colspan="2") #[strong Análisis de emociones]
+                td(colspan="3") Detecta estado emocional y tono de interacción 
+                td(colspan="3") Mejora la empatía y personalización en la atención 
+              tr(style="background-color: #FFFFFF")
+                td(colspan="2") #[strong Recomendaciones inteligentes]
+                td(colspan="3") Sugiere productos o servicios según comportamiento 
+                td(colspan="3") Incrementa la fidelización y las ventas 
               tr(style="background-color: #E8EFFE")
-                td #[strong Automatización de procesos]
-                td(colspan="2") Optimiza tareas repetitivas y registros 
-                td(colspan="2") Mejora eficiencia operativa y consistencia de servicio 
+                td(colspan="2") #[strong Automatización de procesos]
+                td(colspan="3") Optimiza tareas repetitivas y registros 
+                td(colspan="3") Mejora eficiencia operativa y consistencia de servicio 
 
     .row.justify-content-center.z-2
       .col-xl-10
         .bg-terciario.rounded-4.p-4.py-3.mb-3
-          p.mb-0 Un comercio electrónico integra IA predictiva y chatbots para sugerir productos personalizados según el historial de compras, aumentando la satisfacción del cliente y las ventas recurrentes. 
+          p.mb-0 Un comercio electrónico integra IA predictiva y #[em chatbots] para sugerir productos personalizados según el historial de compras, aumentando la satisfacción del cliente y las ventas recurrentes. 
 
     separador 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -105,7 +105,7 @@
       .py-3.py-md-4.px-4(titulo="Telecomunicaciones ")
         .row.align-items-center.justify-content-center
           .col-lg-7.mb-3.mb-lg-0
-            p.mb-0 Empresas como Claro y Movistar implementan chatbots multicanal capaces de responder preguntas sobre planes, facturación y servicios adicionales. Cuando se detectan consultas más específicas, como problemas técnicos o ajustes de contratos, la IA deriva la interacción a agentes especializados, manteniendo la eficiencia sin sacrificar la atención personalizada  
+            p.mb-0 Empresas como Claro y Movistar implementan #[em chatbots] multicanal capaces de responder preguntas sobre planes, facturación y servicios adicionales. Cuando se detectan consultas más específicas, como problemas técnicos o ajustes de contratos, la IA deriva la interacción a agentes especializados, manteniendo la eficiencia sin sacrificar la atención personalizada  
           .col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/tema3/6.png', alt='')
@@ -129,7 +129,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4
         div.banner-text.shadow.bg-terciario-t10
-          p.mb-0 La aplicación de inteligencia artificial en la atención al cliente requiere estrategias que articulen tecnología, datos y participación humana de manera planificada. Su implementación debe orientarse a resolver necesidades reales, optimizar procesos, personalizar las interacciones y apoyar la toma de decisiones, garantizando al mismo tiempo la protección de los datos, la transparencia y el seguimiento de los resultados para fortalecer continuamente la experiencia del cliente. Entre los más comunes tenemos: 
+          p.mb-0 La aplicación de inteligencia artificial en la atención al cliente requiere estrategias que articulen tecnología, datos y participación humana de manera planificada. Su implementación debe orientarse a resolver necesidades reales, optimizar procesos, personalizar las interacciones y apoyar la toma de decisiones, garantizando al mismo tiempo la protección de los datos, la transparencia y el seguimiento de los resultados para fortalecer continuamente la experiencia del cliente. Entre los más comunes se encuentran:
 
     .fullwidth-bg.fullwidth-bg--2
     .bg-slider.bg-slider--xl.p-4.z-2.rounded-1.mb-4.mb-lg-5
@@ -185,7 +185,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Las 4 tendencias en inteligencia artificial capaces de aumentar la productividad de los equipos de marketing
+                  h4.mb-1 Las 4 tendencias en inteligencia artificial capaces de aumentar la productividad de los equipos de #[em marketing]
                   p.mb-0 Se recomienda consultar la siguiente lectura que presenta tendencias y aplicaciones de la IA para optimizar procesos y fortalecer la productividad en el sector comercial. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.ituser.es/inteligencia-artificial/2024/12/las-4-tendencias-en-inteligencia-artificial-capaces-de-aumentar-la-productividad-de-los-equipos-de-marketing" target="_blank")
@@ -200,9 +200,9 @@
               figure
                 img.mb-4.mb-sm-0(src="@/assets/curso/common/mic.png", alt="")
             .col-sm-9
-              p A continuación, se invita a ir al siguiente podcast: 
+              p A continuación, lo invitamos a consultar el siguiente pódcast:
               TarjetaAudio.mb-3(
-                texto="”<em>Chatbots</em>: tecnología al servicio del asesor humano”"
+                texto="<em>Chatbots</em>: tecnología al servicio del asesor humano"
                 tiempo
                 :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")

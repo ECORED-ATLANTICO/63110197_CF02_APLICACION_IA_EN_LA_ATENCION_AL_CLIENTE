@@ -32,6 +32,7 @@
           span Estrategias y beneficios de la implementación de IA
         .tabla-a.color-acento-contenido.tabla-a--text-left.mb-2
           table
+            caption Nota. Adaptada de Marr, B., (2020).   
             thead
               tr(style="background-color: #F3F6FE")
                 th Estrategia 
@@ -44,7 +45,7 @@
                 td(colspan="2") Reduce riesgos y permite ajustes progresivos 
               tr
                 td #[strong Personalización del sistema]
-                td(colspan="2") Ajustar chatbots y analítica según el perfil del cliente 
+                td(colspan="2") Ajustar #[em chatbots] y analítica según el perfil del cliente 
                 td(colspan="2") Mejora la experiencia y fidelización 
               tr(style="background-color: #E8EFFE")
                 td #[strong Capacitación continua]
@@ -57,7 +58,7 @@
               tr(style="background-color: #E8EFFE")
                 td #[strong Integración con sistemas existentes]
                 td(colspan="2") Conectar IA con CRM y otros sistemas internos 
-                td(colspan="2") Mejora eficiencia operativa y consistencia de datos 
+                td(colspan="2") Mejora eficiencia operativa y consistencia de datos
 
     .bg-contenido-a10.p-4.py-3.rounded-4.z-2
       p.mb-0 Una empresa de telecomunicaciones implementa primero un #[em chatbot] para consultas frecuentes, capacita al personal en escalamiento de casos complejos, monitorea indicadores de satisfacción y luego despliega análisis predictivo para personalizar ofertas. 
@@ -76,7 +77,7 @@
           p.mb-0 La capacitación del personal debe ir más allá de la operación básica de herramientas y centrarse en el desarrollo de competencias analíticas, técnicas y de toma de decisiones. Esto incluye enseñar a los equipos de atención a supervisar, interpretar y complementar las acciones de los sistemas inteligentes, asegurando que la automatización se utilice de manera eficiente y ética. 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7
-        p El entrenamiento debe cubrir el manejo de chatbots, automatización de procesos, análisis de emociones y gestión de datos de clientes, con ejercicios prácticos, simulaciones y talleres que permitan al personal enfrentarse a escenarios reales y situaciones complejas. 
+        p El entrenamiento debe cubrir el manejo de #[em chatbots], automatización de procesos, análisis de emociones y gestión de datos de clientes, con ejercicios prácticos, simulaciones y talleres que permitan al personal enfrentarse a escenarios reales y situaciones complejas. 
         .bg-secundario-s5.rounded-4.p-4.py-3.mb-3
           p.mb-0 La ética y la privacidad son componentes esenciales de la formación, instruyendo al personal sobre el manejo responsable de la información del cliente y el cumplimiento de normativas legales y políticas internas de seguridad de datos. 
       .col-sm-8.col-lg-5
@@ -94,12 +95,12 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema4/6.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
-        p Otra estrategia importante es la gestión de escalamiento, que capacita a los empleados para identificar con precisión cuándo derivar un caso a un asesor humano, asegurando la continuidad y la calidad del servicio. Esto se refuerza mediante role play, guías de procedimiento y simulaciones que reflejan situaciones críticas de atención al cliente. 
+        p Otra estrategia importante es la gestión de escalamiento, que capacita a los empleados para identificar con precisión cuándo derivar un caso a un asesor humano, asegurando la continuidad y la calidad del servicio. Esto se refuerza mediante #[em role play], guías de procedimiento y simulaciones que reflejan situaciones críticas de atención al cliente. 
         .bg-contenido-a10.rounded-4.p-4.py-3.mb-3
           p.mb-0 La capacitación también debe incluir seguimiento y evaluación continua: establecer indicadores de desempeño individual y grupal, retroalimentación regular y métricas de interacción con los sistemas de IA. Esto permite identificar brechas en las competencias del personal y diseñar planes de mejora continua, fomentando un aprendizaje adaptativo y sostenible. 
     .row.justify-content-center.align-items-center.z-2
       .col-lg-7
-        p Además, se recomienda fortalecer habilidades blandas complementarias, como comunicación efectiva, empatía y resolución de conflictos, que son cruciales cuando los asesores intervienen en casos que requieren juicio humano y atención personalizada. La comunicación interna, charlas motivacionales y sesiones de feedback continuo ayudan a consolidar la cultura de innovación y colaboración humano-IA dentro de la organización.
+        p Además, se recomienda fortalecer habilidades blandas complementarias, como comunicación efectiva, empatía y resolución de conflictos, que son cruciales cuando los asesores intervienen en casos que requieren juicio humano y atención personalizada. La comunicación interna, charlas motivacionales y sesiones de #[em feedback] continuo ayudan a consolidar la cultura de innovación y colaboración humano-IA dentro de la organización.
         .bg-secundario-s5.rounded-4.p-4.py-3.mb-3
           p.mb-0 Finalmente, la gestión del cambio debe estar alineada con la capacitación, comunicando claramente los objetivos de la IA, los beneficios para clientes y empleados, y las expectativas sobre la interacción humano-máquina. Identificar resistencias, crear planes de apoyo y establecer protocolos claros garantiza que la adopción tecnológica se haga de manera ordenada, ética y eficiente. 
       .col-sm-8.col-lg-5
@@ -114,7 +115,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4
         div.banner-text.shadow.bg-terciario-t10
-          p.mb-0 Para garantizar el éxito de la implementación de la IA en la atención al cliente, es fundamental establecer un sistema de evaluación permanente que permita medir resultados, analizar métricas clave y aplicar mejoras continuas en los procesos. El monitoreo constante facilita identificar oportunidades de optimización, detectar fallas en la automatización y fortalecer la integración entre sistemas tecnológicos y asesores humanos. Entre los indicadores claves tenemos: 
+          p.mb-0 Para garantizar el éxito de la implementación de la IA en la atención al cliente, es fundamental establecer un sistema de evaluación permanente que permita medir resultados, analizar métricas clave y aplicar mejoras continuas en los procesos. El monitoreo constante facilita identificar oportunidades de optimización, detectar fallas en la automatización y fortalecer la integración entre sistemas tecnológicos y asesores humanos. Entre los indicadores clave tenemos:
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
@@ -156,6 +157,7 @@
           span Indicadores y objetivos de optimización de IA 
         .tabla-a.color-acento-contenido.tabla-a--text-left.mb-2
           table
+            caption Nota. Adaptada de Marr, B., (2020).   
             thead
               tr(style="background-color: #F3F6FE")
                 th Indicador 
@@ -166,15 +168,15 @@
                 td #[strong Tiempo de respuesta]
                 td(colspan="2") Reducir al mínimo la espera del cliente 
                 td(colspan="2") Ajuste de respuestas automáticas y priorización de consultas 
-              tr
+              tr(style="background-color: #FFFFFF")
                 td #[strong Satisfacción del cliente ]
                 td(colspan="2") Alcanzar altos niveles de fidelización 
                 td(colspan="2") Personalización de interacciones y seguimiento postventa 
               tr(style="background-color: #E8EFFE")
                 td #[strong Resoluciones por IA]
                 td(colspan="2") Maximizar interacciones resueltas sin intervención humana 
-                td(colspan="2") Capacitación y ajuste de chatbots 
-              tr
+                td(colspan="2") Capacitación y ajuste de #[em chatbots] 
+              tr(style="background-color: #FFFFFF")
                 td #[strong Escalamiento a humanos]
                 td(colspan="2") Garantizar atención eficiente en casos complejos 
                 td(colspan="2") Mejora de protocolos y entrenamiento del personal 
@@ -182,9 +184,9 @@
                 td #[strong Procesos internos]
                 td(colspan="2") Optimizar operaciones y registro de datos 
                 td(colspan="2") Integración con CRM y análisis de desempeño 
-        figcaption Nota. Adaptada de Marr, B., (2020).   
 
-    p.mb-4.mb-lg-5.z-2 Un #[em Call Center] mide el tiempo de respuesta y satisfacción del cliente tras implementar IA, ajusta los chatbots y programas de capacitación, y logra reducir un 30 % los tiempos de atención y aumentar la satisfacción general. 
+
+    p.mb-4.mb-lg-5.z-2 Un #[em call center] mide el tiempo de respuesta y satisfacción del cliente tras implementar IA, ajusta los #[em chatbots] y programas de capacitación, y logra reducir un 30 % los tiempos de atención y aumentar la satisfacción general. 
 
     .row.justify-content-center.z-2.mb-4.mb-lg-5
       .col-xl-10
@@ -196,8 +198,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Integración de IA en el trabajo: claves para una convergencia Humano-IA exitosa
-                  p.mb-0 Se recomienda consultar la siguiente lectura la cual presenta estrategias para implementar la inteligencia artificial en las organizaciones, fortalecer la colaboración entre las personas y la tecnología, optimizar procesos y apoyar la toma de decisiones en entornos laborales. 
+                  h4.mb-1 Integración de IA en el trabajo: claves para una convergencia humano-IA exitosa
+                  p.mb-0 Se recomienda consultar la siguiente lectura, la cual presenta estrategias para implementar la inteligencia artificial en las organizaciones, fortalecer la colaboración entre las personas y la tecnología, optimizar procesos y apoyar la toma de decisiones en entornos laborales. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://soaint.com/blog/integracion-de-ia-en-el-trabajo/" target="_blank")
                     span Ir al recurso
@@ -211,20 +213,12 @@
               figure
                 img.mb-4.mb-sm-0(src="@/assets/curso/common/mic.png", alt="")
             .col-sm-9
-              p A continuación, se invita a ir al siguiente podcast: 
+              p A continuación, lo invitamos a consultar el siguiente pódcast:
               TarjetaAudio.mb-3(
-                texto="”IA en la atención al cliente: apoyo, no reemplazo”"
+                texto="IA en la atención al cliente: apoyo, no reemplazo"
                 tiempo
                 :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
-
-
-
-
-
-
-
-
 
 </template>
 

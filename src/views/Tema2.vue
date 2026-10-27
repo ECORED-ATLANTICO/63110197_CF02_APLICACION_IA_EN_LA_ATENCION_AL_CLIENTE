@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Quejas y Ética con IA 
+      h1 Quejas y ética con IA 
 
     img(src="@/assets/curso/tema2/1.png", alt="", data-aos="zoom-in-down")  
     .row.justify-content-center.z-2
@@ -38,7 +38,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
-        p En comercio electrónico, un chatbot puede ofrecer solución inmediata ante un retraso logístico. Si el cliente expresa frustración reiterada, el sistema activa el escalamiento automático y transfiere el caso con trazabilidad completa. En el sector financiero, reclamos por cargos indebidos pueden resolverse inicialmente con validación automática; no obstante, si el sistema detecta tono de molestia o riesgo reputacional, el caso se asigna a un especialista con recomendaciones de mitigación. 
+        p En comercio electrónico, un #[em chatbot] puede ofrecer solución inmediata ante un retraso logístico. Si el cliente expresa frustración reiterada, el sistema activa el escalamiento automático y transfiere el caso con trazabilidad completa. En el sector financiero, reclamos por cargos indebidos pueden resolverse inicialmente con validación automática; no obstante, si el sistema detecta tono de molestia o riesgo reputacional, el caso se asigna a un especialista con recomendaciones de mitigación. 
         .bg-primario-p5.rounded-4.p-4.py-3.mb-3
           p.mb-0 Empresas como Amazon y BBVA han integrado este tipo de flujos híbridos donde la automatización reduce carga operativa y el talento humano interviene estratégicamente en situaciones sensibles. 
         p.mb-0 El valor estratégico no está solo en automatizar, sino en diseñar reglas claras de decisión. Un flujo bien estructurado reduce tiempos, mejora indicadores de satisfacción y disminuye abandono del servicio. Además, permite generar métricas como tasa de resolución en primer contacto, tiempo promedio de respuesta y porcentaje de casos escalados. 
@@ -113,7 +113,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/7.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
-        p Una entidad financiera que implementa chatbot para consultas de saldo debe asegurar cifrado de datos y verificación humana en recomendaciones sensibles, como inversiones o créditos. Esto evita decisiones sesgadas por edad, género o perfil socioeconómico. Organizaciones tecnológicas como IBM han desarrollado soluciones de análisis responsable de datos que incluyen monitoreo de sesgos y gobernanza algorítmica. 
+        p Una entidad financiera que implementa #[em chatbot] para consultas de saldo debe asegurar cifrado de datos y verificación humana en recomendaciones sensibles, como inversiones o créditos. Esto evita decisiones sesgadas por edad, género o perfil socioeconómico. Organizaciones tecnológicas como IBM han desarrollado soluciones de análisis responsable de datos que incluyen monitoreo de sesgos y gobernanza algorítmica. 
         .bg-contenido-a10.rounded-4.p-4.py-3.mb-3
           p.mb-0 En este contexto, organismos internacionales como la UNESCO y la Organización para la Cooperación y el Desarrollo Económicos han establecido lineamientos orientados a promover una IA centrada en el ser humano, basada en la equidad, la aplicabilidad y la rendición de cuentas. Estos referentes sirven de base para estructurar buenas prácticas que minimicen riesgos legales y reputacionales en entornos empresariales. 
 
@@ -176,7 +176,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4.z-2
       h5 Figura 3.
-      span Beneficios estratégicos 
+      span Integración práctica: flujos y ética 
     img.mb-4.z-2(data-aos="fade-up", src="@/assets/curso/tema2/10.png", alt="La figura representa un flujo práctico de atención al cliente que integra el uso de inteligencia artificial con principios éticos. Muestra cómo la tecnología participa durante la interacción para responder, analizar y gestionar solicitudes, manteniendo la posibilidad de intervención humana cuando sea necesaria. Además, destaca la importancia de informar al cliente, proteger sus datos y conservar registros del proceso, promoviendo una atención responsable, transparente, segura y trazable. ")
 
 </template>

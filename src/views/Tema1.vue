@@ -20,7 +20,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.z-2
       .col-lg-8
-        p La satisfacción del cliente constituye un indicador estratégico que mide el grado en que la experiencia recibida cumple o supera las expectativas previas. En entornos apoyados por inteligencia artificial, esta experiencia está mediada por sistemas automatizados como chatbots, asistentes virtuales y motores de análisis predictivo. 
+        p La satisfacción del cliente constituye un indicador estratégico que mide el grado en que la experiencia recibida cumple o supera las expectativas previas. En entornos apoyados por inteligencia artificial, esta experiencia está mediada por sistemas automatizados como #[em chatbots], asistentes virtuales y motores de análisis predictivo. 
         .bg-primario-p5.rounded-4.p-4.py-3.mb-3
           p.mb-0 La fidelización, en contraste, representa una fase superior del vínculo comercial. No solo implica recompra, sino lealtad sostenida, recomendación activa y reducción de sensibilidad al precio. Según Philip Kotler, la lealtad del cliente es consecuencia directa de la generación continua de valor y de relaciones consistentes en el tiempo. 
         p.mb-4.mb-lg-0 En contextos digitales, la IA impacta la satisfacción a través de tres dimensiones fundamentales:
@@ -126,13 +126,13 @@
       .col-lg-8
         p La inteligencia artificial genera impactos diferenciados y estratégicos en diversos sectores económicos mediante la optimización de procesos, personalización del servicio y fortalecimiento de la relación con el cliente. 
         .bg-terciario-t10.p-4.rounded-4.py-3
-          p.mb-0 En el sector retail, empresas como Amazon han demostrado que la recomendación automatizada incrementa la tasa de recompra y el ticket promedio mediante algoritmos predictivos. 
+          p.mb-0 En el sector #[em retail], empresas como Amazon han demostrado que la recomendación automatizada incrementa la tasa de recompra y el #[em ticket] promedio mediante algoritmos predictivos. 
 
     .row.justify-content-center.align-items-center.z-2
       .col-lg-7
         p En el sector financiero, organizaciones como BBVA utilizan asistentes virtuales que analizan patrones de consumo y ofrecen soluciones personalizadas, mejorando la percepción de acompañamiento. 
         .bg-secundario-s5.p-4.rounded-4.py-3
-          p.mb-0 En servicios de salud digital, la IA permite recordatorios automatizados, seguimiento de tratamientos y comunicación preventiva, fortaleciendo la confianza institucional. Salud Total EPS por ejemplo, utiliza sistemas digitales para la gestión de trámites, directorio médico y citas a través de su app, mejorando procesos administrativos con tecnología digital (incluyendo automatización y canales virtuales). 
+          p.mb-0 En servicios de salud digital, la IA permite recordatorios automatizados, seguimiento de tratamientos y comunicación preventiva, fortaleciendo la confianza institucional. Salud Total EPS por ejemplo, utiliza sistemas digitales para la gestión de trámites, directorio médico y citas a través de su #[em app], mejorando procesos administrativos con tecnología digital (incluyendo automatización y canales virtuales). 
       .col-sm-8.col-lg-5.d-none.d-lg-block
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema1/14.png", alt="")
@@ -140,7 +140,8 @@
     .fullwidth-bg.fullwidth-bg--1
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.2 Implementación estratégica 
+      h2 1.2 Personalización y análisis de emociones
+
 
     img(src="@/assets/curso/tema1/15.png", alt="", data-aos="zoom-in-down")  
     .row.justify-content-center.z-2
@@ -326,7 +327,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 10 formas de aprovechar la Inteligencia Artificial (IA) y brindar experiencias del cliente excepcionales
+                  h4.mb-1 10 formas de aprovechar la inteligencia artificial (IA) y brindar experiencias del cliente excepcionales
                   p.mb-0 La   siguiente lectura aborda estrategias para mejorar la experiencia del cliente mediante el uso de inteligencia artificial. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://grupoinmotion.com/10-formas-de-aprovechar-la-inteligencia-artificial-ia-y-brindar-experiencias-del-cliente-excepcionales/" target="_blank")
