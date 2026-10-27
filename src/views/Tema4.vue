@@ -217,7 +217,7 @@
               TarjetaAudio.mb-3(
                 texto="IA en la atención al cliente: apoyo, no reemplazo"
                 tiempo
-                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                :audio="require_src('@/assets/curso/podcast/63110197_CF02_Podcast_02.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
 
 </template>

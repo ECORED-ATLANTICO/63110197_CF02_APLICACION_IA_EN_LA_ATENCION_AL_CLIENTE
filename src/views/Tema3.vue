@@ -204,7 +204,7 @@
               TarjetaAudio.mb-3(
                 texto="<em>Chatbots</em>: tecnología al servicio del asesor humano"
                 tiempo
-                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                :audio="require_src('@/assets/curso/podcast/63110197_CF02_Podcast_01.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
 
 
