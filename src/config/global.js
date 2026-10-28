@@ -336,12 +336,12 @@ export default {
       autores: [
         {
           nombre: 'Mario Morales Cabrera',
-          cargo: 'Experto Temático Logística',
+          cargo: 'Experto temático logística',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Jair Coll Gallardo ',
-          cargo: 'Experto Temático Comercio y servicio',
+          cargo: 'Experto temático comercio y servicio',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

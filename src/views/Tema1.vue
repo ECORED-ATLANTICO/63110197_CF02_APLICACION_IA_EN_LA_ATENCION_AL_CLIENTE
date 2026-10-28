@@ -252,7 +252,7 @@
     .titulo-con-imagen.mb-5.z-2(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/title-icon.png")
-        h3.titulo-con-imagen__texto Integración estratégica: Personalización y fidelización 
+        h3.titulo-con-imagen__texto Integración estratégica: personalización y fidelización 
 
     p.mb-4.z-2 La articulación entre personalización, análisis emocional y métricas de satisfacción genera un modelo de atención inteligente basado en datos. De esto hay un flujo estratégico que comprende:
 

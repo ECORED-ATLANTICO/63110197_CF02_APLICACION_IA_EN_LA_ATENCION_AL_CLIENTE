@@ -151,7 +151,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Benchmarking.',
+              texto: '<em>Benchmarking</em>.',
               esCorrecta: false,
             },
           ],

@@ -117,9 +117,6 @@
             figure
               img(src='@/assets/curso/tema3/7.png', alt='')
 
-    .bg-contenido-a5.rounded-4.p-4.py-3.mb-5
-      p.mb-0 Sitio web de Movistar Colombia con información de planes móviles, internet, televisión, promociones y acceso a atención al cliente en línea. 
-
     .titulo-con-imagen.mb-5.z-2(data-aos="fade-right")
       .titulo-con-imagen__fondo.bg-primario-p5
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/title-icon-2.png")

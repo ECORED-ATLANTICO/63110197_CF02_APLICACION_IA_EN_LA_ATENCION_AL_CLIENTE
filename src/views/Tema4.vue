@@ -87,7 +87,7 @@
     .fullwidth-bg.fullwidth-bg--2
     .titulo-sexto.color-acento-contenido.mb-4.z-2
       h5 Figura 4.
-      span Capacitación y gestión del cambio
+      span Capacitación y gestión del cambio en IA
     img.mb-4.z-2(data-aos="fade-up", src="@/assets/curso/tema4/5.png", alt="La figura presenta los principales elementos que deben considerarse para facilitar la capacitación y la gestión del cambio durante la incorporación de inteligencia artificial en los procesos de atención al cliente. Integra aspectos relacionados con la planificación, formación del personal, uso responsable de la información, participación humana, seguimiento del desempeño y fortalecimiento de habilidades. Además, destaca la importancia de comunicar los cambios y acompañar a los colaboradores para favorecer una adopción adecuada de las nuevas tecnologías.")
 
     .row.justify-content-center.align-items-center.mb-4.z-2
